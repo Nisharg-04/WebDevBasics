@@ -1,0 +1,46 @@
+body {
+ background-color: green;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-weight: bold;
+}
+h1 {
+  text-align: center;
+  color: goldenrod;
+  font-size: 60px;
+}
+p {
+  text-align: center;
+  color: whitesmoke;
+  font-size: 25px;
+}
+#startGame {
+  display: block;
+  margin: auto;
+  background-color: goldenrod;
+  font-size: 25px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  color: green;
+  border-radius: 5px;
+  width: 170px;
+  height: 45px;
+  font-weight: bold;
+  border: none;
+}
+
+#newCard {
+    display: block;
+    margin: 10px auto;
+    background-color: goldenrod;
+    font-size: 25px;
+    font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+      "Lucida Sans", Arial, sans-serif;
+    color: green;
+    border-radius: 5px;
+    width: 170px;
+    height: 45px;
+    font-weight: bold;
+    border: none;
+  }
+  
